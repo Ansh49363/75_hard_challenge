@@ -1,0 +1,55 @@
+h1{
+    color: rgb(184, 190, 56);
+    text-align: center;
+}
+h1:hover{
+    color: darkgoldenrod;
+}
+#hard{
+    background-image:url("bIcS9M.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+
+}
+#harddiv{
+    margin-left: 400px;
+    color: rgb(243, 243, 235);
+    font-size: larger
+}
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+h2:hover{
+    color: rgb(77, 238, 228);
+}
+
+a i{
+    transition: all o.3 linear;
+}
+a:hover i{
+    transform: scale(1.5);
+}
+.fa-instagram{
+    color: #e84393;
+    margin: 5px;
+}
+.fa-linkedin{
+    color: #18a3ef;
+    margin: 5px;
+}
+
+#feed{
+    background-color: #eee3e8;
+    margin-left:1150px;
+    margin-bottom: 5px;
+    width:70px;
+    height:25px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
